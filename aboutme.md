@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 목표 안드로이드 초고수
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+아직 개발 경력은 없는 취준 대학생이지만 안드로이드 초고수가 되고 싶은 개발자 윤형웅이라고 합니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Contact
+* E-mail : ho8278@naver.com
