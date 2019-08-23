@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 안드로이드로 AR 내비게이션 개발하기 (1)
-tags: [ARCore, Android, Tmap, RecyclerView, AR내비게이션]
+tags: [ARCore, Android, T map, RecyclerView, AR내비게이션]
 ---
 
 안드로이드에서 증강현실(AR)을 사용하여 보행자 내비게이션을 만들어 본 적이 있습니다. 오늘은 제가 만들었던 AR 내비게이션에 대한 전반적인 기획과 제약사항에 대해 알아보도록 하겠습니다.
@@ -33,3 +33,8 @@ tags: [ARCore, Android, Tmap, RecyclerView, AR내비게이션]
 
 라고 명시하고 있습니다. 자세한건 [구글 개발자 가이드](https://developers.google.com/ar/discover/supported-devices?source=post_page-----bb278c9302fb----------------------)에서 확인 할 수 있습니다.
 
+### 기능 리스트
+*  T map을 이용하여 장소 및 경로 검색
+*  AR 내비게이션 기능
+
+크게 위 두 가지가 이번 프로젝트의 주요 핵심 기능입니다. 

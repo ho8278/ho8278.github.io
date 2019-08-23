@@ -665,8 +665,19 @@ table tr td :last-child {
 /* --- Code blocks --- */
 
 pre {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5em;
+}
+.highlight pre code * {
+  white-space: nowrap;  
+}
+
+.highlight pre {
+  overflow-x: auto;   
+}
+
+.highlight pre code {
+  white-space: pre;   
 }
 .highlight pre {
   border: none;
