@@ -5,7 +5,7 @@ tags: [ARCore, Android, T map, RecyclerView, AR내비게이션]
 ---
 저번 포스트에서는 프로젝트의 전반적인 개요를 살펴보았습니다. 이번 포스트에서는 핵심 기능 중 하나인 T map을 사용한 장소 검색 및 경로 탐색 기능에 대해 포스팅 해보려고 합니다. 내용에 들어가기에 앞서 먼저 왜 다른 내비게이션 API 말고 T map을 사용했는지에 대해 알려드리겠습니다.
 
-**프로젝트에 사용하는 T map을 세팅하는 방법은 이번 포스트에서 포함 하지 않았습니다. 안드로이드 프로젝트에 T map을 추가하고 싶으신 분은 [이곳]()을 참고 하시면 될것 같습니다.**
+**프로젝트에 사용하는 T map을 세팅하는 방법은 이번 포스트에서 포함 하지 않았습니다. 안드로이드 프로젝트에 T map을 추가하고 싶으신 분은 [이곳](http://tmapapi.sktelecom.com/main.html#android/guide/androidGuide.sample1)을 참고 하시면 될것 같습니다.**
 
 ### 기존 내비게이션 API 분석
 1. [카카오내비](https://developers.kakao.com/docs/android/kakaonavi-api)
